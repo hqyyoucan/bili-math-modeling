@@ -1,0 +1,56 @@
+{
+  "label": "P22画面规则的补充小反例，不是课程原数据",
+  "direct_path": {
+    "path": [
+      1,
+      2
+    ],
+    "distance": 5,
+    "wrong_stop_rule": "length==2 falsely signals unreachable"
+  },
+  "intermediate_matrix_recovery": {
+    "edges": [
+      [
+        1,
+        3,
+        1
+      ],
+      [
+        3,
+        2,
+        1
+      ],
+      [
+        2,
+        4,
+        1
+      ]
+    ],
+    "naive_path": [
+      1,
+      3,
+      4
+    ],
+    "correct_recursive_path": [
+      1,
+      3,
+      2,
+      4
+    ],
+    "distance": 3,
+    "naive_contains_nonexistent_edge": [
+      3,
+      4
+    ]
+  },
+  "reverse_capacity": {
+    "original_edge": [
+      2,
+      4
+    ],
+    "original_capacity": 1,
+    "original_flow": 1,
+    "correct_reverse_residual": 1,
+    "if_only_cost_is_negated_but_c_reverse_and_x_reverse_stay_zero": 0
+  }
+}

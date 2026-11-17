@@ -1,0 +1,190 @@
+{
+  "execution": "补充NumPy随机搜索，原MATLAB未执行；每项记录独立种子，结果不冒充课堂相同随机序列",
+  "school": {
+    "N": 10000,
+    "seed": 20261117,
+    "constraints": "按P13完整8小区覆盖表构造",
+    "feasible_samples": 2003,
+    "sample_best": 3,
+    "sample_best_states": [
+      [
+        1,
+        0,
+        0,
+        1,
+        1,
+        0
+      ]
+    ],
+    "exact_reference": {
+      "sets_by_site": [
+        [
+          1,
+          5,
+          7
+        ],
+        [
+          1,
+          2,
+          5,
+          8
+        ],
+        [
+          1,
+          3,
+          5
+        ],
+        [
+          2,
+          4,
+          8
+        ],
+        [
+          3,
+          6
+        ],
+        [
+          4,
+          6,
+          8
+        ]
+      ],
+      "minimum_schools": 3,
+      "optimal_sites": [
+        [
+          1,
+          4,
+          5
+        ]
+      ],
+      "enumerated_cases": 64
+    },
+    "course_discrepancy": "完整模型最优唯一；P14口述学校例多解与其不一致，条件行右端未完整可读，未定位具体遗漏。"
+  },
+  "assignment": {
+    "C_source": "P14 KF-P14-03-HD command window / code",
+    "C": [
+      [
+        4,
+        2,
+        3,
+        4
+      ],
+      [
+        6,
+        4,
+        5,
+        5
+      ],
+      [
+        7,
+        6,
+        7,
+        6
+      ],
+      [
+        7,
+        8,
+        8,
+        6
+      ],
+      [
+        7,
+        9,
+        8,
+        6
+      ],
+      [
+        7,
+        10,
+        8,
+        6
+      ]
+    ],
+    "encoding": "长度6的企业编号，值1..4，每个企业至少出现一次",
+    "enumerated_total": 4096,
+    "feasible_total": 1560,
+    "exact_maximum": 44,
+    "all_optimal_assignments": [
+      [
+        4,
+        1,
+        1,
+        3,
+        2,
+        2
+      ],
+      [
+        4,
+        1,
+        3,
+        2,
+        2,
+        2
+      ],
+      [
+        4,
+        1,
+        3,
+        3,
+        2,
+        2
+      ]
+    ],
+    "N": 10000,
+    "seed": 20261118,
+    "feasible_samples": 3796,
+    "sample_maximum": 44,
+    "sample_best_assignments": [
+      [
+        4,
+        1,
+        1,
+        3,
+        2,
+        2
+      ],
+      [
+        4,
+        1,
+        3,
+        2,
+        2,
+        2
+      ],
+      [
+        4,
+        1,
+        3,
+        3,
+        2,
+        2
+      ]
+    ]
+  },
+  "buffon": {
+    "a": 10.0,
+    "length": 5.0,
+    "N": 10000,
+    "seed": 20261119,
+    "hits": 3202,
+    "p_hat": 0.3202,
+    "pi_hat": 3.1230480949406623,
+    "course_reported_pi": 3.2154,
+    "note": "a/l/N来自P14；种子是补充指定，课堂种子未知，因此不要求数值逐次一致。"
+  },
+  "people": {
+    "N": 10000,
+    "seed": 20261120,
+    "sample_domain": "[1,6]^2，依据课堂约束作补充编码；未从抽样帧确认原代码采样范围",
+    "feasible_samples": 3921,
+    "sample_best": 220,
+    "sample_best_states": [
+      [
+        4,
+        2
+      ]
+    ],
+    "exact_reference": "P11已用求解器、整数枚举及上界证明220最优"
+  }
+}

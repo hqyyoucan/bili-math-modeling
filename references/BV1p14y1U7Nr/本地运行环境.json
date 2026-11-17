@@ -1,0 +1,19 @@
+{
+  "root": "<asr-runtime>",
+  "activation": "<asr-runtime>/runtime.ps1",
+  "python_base": "<asr-runtime>/python312/tools/python.exe",
+  "python_asr": "<asr-runtime>/qwen3-asr-venv/Scripts/python.exe",
+  "model": "<asr-runtime>/models/Qwen3-ASR-0.6B",
+  "ffmpeg": "<asr-runtime>/bin/ffmpeg.exe",
+  "cache": "<asr-runtime>/cache",
+  "media": "<asr-runtime>/media",
+  "state": "配置及实际转写验证完成；P05全音轨63块转写已完成，后续按讲复用",
+  "python_version": "3.12.10",
+  "torch_version": "2.15.0+cpu",
+  "qwen_asr_version": "0.0.6",
+  "device": "CPU",
+  "model_downloaded_and_sha256_verified": true,
+  "pip_check": "No broken requirements found",
+  "smoke_test": {"page":5,"audio_seconds":30,"runtime_seconds":35.53,"output_chars":187},
+  "timestamp_precision": "固定音频分块边界，非逐词对齐"
+}

@@ -1,0 +1,165 @@
+{
+  "source": "Original video frames at transcript-guided timestamps; preview storyboard request timed out",
+  "quality": "Original video resolution recorded per frame; contact tiles 480x270",
+  "bvid": "BV1p14y1U7Nr",
+  "page": 19,
+  "cid": 1192320749,
+  "frames": [
+    {
+      "id": "KF-P19-01",
+      "time_seconds": 40,
+      "width": 480,
+      "height": 270,
+      "file": "KF-P19-01-HD.png",
+      "high_resolution_file": "KF-P19-01-HQ.png",
+      "high_resolution_source": {
+        "width": 1920,
+        "height": 1080,
+        "codec": "avc1.640033"
+      }
+    },
+    {
+      "id": "KF-P19-02",
+      "time_seconds": 220,
+      "width": 480,
+      "height": 270,
+      "file": "KF-P19-02-HD.png",
+      "high_resolution_file": "KF-P19-02-HQ.png",
+      "high_resolution_source": {
+        "width": 1920,
+        "height": 1080,
+        "codec": "avc1.640033"
+      }
+    },
+    {
+      "id": "KF-P19-03",
+      "time_seconds": 355,
+      "width": 480,
+      "height": 270,
+      "file": "KF-P19-03-HD.png",
+      "high_resolution_file": "KF-P19-03-HQ.png",
+      "high_resolution_source": {
+        "width": 1920,
+        "height": 1080,
+        "codec": "avc1.640033"
+      }
+    },
+    {
+      "id": "KF-P19-04",
+      "time_seconds": 580,
+      "width": 480,
+      "height": 270,
+      "file": "KF-P19-04-HD.png",
+      "high_resolution_file": "KF-P19-04-HQ.png",
+      "high_resolution_source": {
+        "width": 1920,
+        "height": 1080,
+        "codec": "avc1.640033"
+      }
+    },
+    {
+      "id": "KF-P19-05",
+      "time_seconds": 800,
+      "width": 480,
+      "height": 270,
+      "file": "KF-P19-05-HD.png",
+      "high_resolution_file": "KF-P19-05-HQ.png",
+      "high_resolution_source": {
+        "width": 1920,
+        "height": 1080,
+        "codec": "avc1.640033"
+      }
+    },
+    {
+      "id": "KF-P19-06",
+      "time_seconds": 1000,
+      "width": 480,
+      "height": 270,
+      "file": "KF-P19-06-HD.png",
+      "high_resolution_file": "KF-P19-06-HQ.png",
+      "high_resolution_source": {
+        "width": 1920,
+        "height": 1080,
+        "codec": "avc1.640033"
+      }
+    },
+    {
+      "id": "KF-P19-07",
+      "time_seconds": 1160,
+      "width": 480,
+      "height": 270,
+      "file": "KF-P19-07-HD.png",
+      "high_resolution_file": "KF-P19-07-HQ.png",
+      "high_resolution_source": {
+        "width": 1920,
+        "height": 1080,
+        "codec": "avc1.640033"
+      }
+    },
+    {
+      "id": "KF-P19-08",
+      "time_seconds": 1320,
+      "width": 480,
+      "height": 270,
+      "file": "KF-P19-08-HD.png",
+      "high_resolution_file": "KF-P19-08-HQ.png",
+      "high_resolution_source": {
+        "width": 1920,
+        "height": 1080,
+        "codec": "avc1.640033"
+      }
+    },
+    {
+      "id": "KF-P19-09",
+      "time_seconds": 1440,
+      "width": 480,
+      "height": 270,
+      "file": "KF-P19-09-HD.png",
+      "high_resolution_file": "KF-P19-09-HQ.png",
+      "high_resolution_source": {
+        "width": 1920,
+        "height": 1080,
+        "codec": "avc1.640033"
+      }
+    },
+    {
+      "id": "KF-P19-10",
+      "time_seconds": 1560,
+      "width": 480,
+      "height": 270,
+      "file": "KF-P19-10-HD.png",
+      "high_resolution_file": "KF-P19-10-HQ.png",
+      "high_resolution_source": {
+        "width": 1920,
+        "height": 1080,
+        "codec": "avc1.640033"
+      }
+    },
+    {
+      "id": "KF-P19-11",
+      "time_seconds": 1665,
+      "width": 480,
+      "height": 270,
+      "file": "KF-P19-11-HD.png",
+      "high_resolution_file": "KF-P19-11-HQ.png",
+      "high_resolution_source": {
+        "width": 1920,
+        "height": 1080,
+        "codec": "avc1.640033"
+      }
+    },
+    {
+      "id": "KF-P19-12",
+      "time_seconds": 1780,
+      "width": 480,
+      "height": 270,
+      "file": "KF-P19-12-HD.png",
+      "high_resolution_file": "KF-P19-12-HQ.png",
+      "high_resolution_source": {
+        "width": 1920,
+        "height": 1080,
+        "codec": "avc1.640033"
+      }
+    }
+  ]
+}

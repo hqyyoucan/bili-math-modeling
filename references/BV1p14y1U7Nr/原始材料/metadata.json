@@ -1,0 +1,669 @@
+{
+  "code": 0,
+  "message": "OK",
+  "ttl": 1,
+  "data": {
+    "bvid": "BV1p14y1U7Nr",
+    "aid": 785054977,
+    "videos": 35,
+    "tid": 208,
+    "tid_v2": 2084,
+    "tname": "",
+    "tname_v2": "",
+    "copyright": 1,
+    "pic": "http://i1.hdslb.com/bfs/archive/f34406a556a9e83e6770c8ae4bef5820e852c031.png",
+    "title": "【胎教级入门数学建模】持续更新！可能是B站大学最良心的数学建模课程了，包含全套数学模型、算法、编程、写作、MATLAB教学视频",
+    "pubdate": 1687277203,
+    "ctime": 1687277203,
+    "desc": "大师兄数学建模是一套免费的公开课程，旨在帮助同学们备战数学建模相关的比赛，提升论文写作和数据处理等科研和工作学习水平，欢迎大家一键三连~\r\n如果你有辅导需求欢迎加入我们的集训俱乐部。",
+    "desc_v2": [
+      {
+        "raw_text": "大师兄数学建模是一套免费的公开课程，旨在帮助同学们备战数学建模相关的比赛，提升论文写作和数据处理等科研和工作学习水平，欢迎大家一键三连~\r\n如果你有辅导需求欢迎加入我们的集训俱乐部。",
+        "type": 1,
+        "biz_id": 0
+      }
+    ],
+    "state": 0,
+    "duration": 54176,
+    "rights": {
+      "bp": 0,
+      "elec": 0,
+      "download": 1,
+      "movie": 0,
+      "pay": 0,
+      "hd5": 0,
+      "no_reprint": 0,
+      "autoplay": 1,
+      "ugc_pay": 0,
+      "is_cooperation": 0,
+      "ugc_pay_preview": 0,
+      "no_background": 0,
+      "clean_mode": 0,
+      "is_stein_gate": 0,
+      "is_360": 0,
+      "no_share": 0,
+      "arc_pay": 0,
+      "free_watch": 0
+    },
+    "owner": {
+      "mid": 269490887,
+      "name": "大师兄的知识库",
+      "face": "https://i2.hdslb.com/bfs/face/fb4e684dcbfbae9cce03504c70e1a7414968c906.jpg"
+    },
+    "stat": {
+      "aid": 785054977,
+      "view": 2380734,
+      "danmaku": 15022,
+      "reply": 2482,
+      "favorite": 155894,
+      "coin": 74253,
+      "share": 47454,
+      "now_rank": 0,
+      "his_rank": 0,
+      "like": 79868,
+      "dislike": 0,
+      "evaluation": "",
+      "vt": 0
+    },
+    "argue_info": {
+      "argue_msg": "",
+      "argue_type": 0,
+      "argue_link": ""
+    },
+    "dynamic": "",
+    "cid": 1178278312,
+    "dimension": {
+      "width": 1920,
+      "height": 1080,
+      "rotate": 0
+    },
+    "premiere": null,
+    "teenage_mode": 0,
+    "is_chargeable_season": false,
+    "is_story": false,
+    "is_upower_exclusive": false,
+    "is_upower_play": false,
+    "is_upower_preview": false,
+    "enable_vt": 0,
+    "vt_display": "",
+    "is_upower_exclusive_with_qa": false,
+    "is_hua_sheng": false,
+    "no_cache": false,
+    "pages": [
+      {
+        "cid": 1178278312,
+        "page": 1,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第1讲 课程食用指南",
+        "duration": 370,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n230628a22efmkqv745vdq35tk1d1ffs_firsti.jpg",
+        "ctime": 1687944475
+      },
+      {
+        "cid": 1170375176,
+        "page": 2,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第2讲 层次分析法",
+        "duration": 1517,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n230621a23ihpy62d1fs341ricfzoqyy_firsti.jpg",
+        "ctime": 1687279685
+      },
+      {
+        "cid": 1170366176,
+        "page": 3,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第2讲 层次分析法上机篇",
+        "duration": 2889,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n230620a22ex2q99d1ocos2qbj6qy8ey_firsti.jpg",
+        "ctime": 1687279685
+      },
+      {
+        "cid": 1170359927,
+        "page": 4,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第3讲 模糊综合评价",
+        "duration": 3241,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n230620a21ku2wziwxglgc1599sfk5o6_firsti.jpg",
+        "ctime": 1687277203
+      },
+      {
+        "cid": 1508489392,
+        "page": 5,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第3讲 模糊综合评价上机篇",
+        "duration": 1884,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n240416sa1wisgey935aizhacuphy0el_firsti.jpg",
+        "ctime": 1713258894
+      },
+      {
+        "cid": 1170361321,
+        "page": 6,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第4讲 熵权法",
+        "duration": 1142,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n230620a21pecy8977kvmu116oj6ttqx_firsti.jpg",
+        "ctime": 1687277203
+      },
+      {
+        "cid": 1170376374,
+        "page": 7,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第4讲 熵权法上机篇",
+        "duration": 945,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n230621a23q59676c5d37j9xwcj8hecc_firsti.jpg",
+        "ctime": 1687279685
+      },
+      {
+        "cid": 1170406737,
+        "page": 8,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第5讲 Topsis",
+        "duration": 1069,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1280,
+          "height": 720,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n230621a237nptnrmtgap71eis1a5ogf_firsti.jpg",
+        "ctime": 1687282175
+      },
+      {
+        "cid": 1170380900,
+        "page": 9,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第5讲 Topsis上机篇",
+        "duration": 1346,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n230621a238mlv7e9bsey92h7sd6xw1m_firsti.jpg",
+        "ctime": 1687279685
+      },
+      {
+        "cid": 1179513907,
+        "page": 10,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第6讲 灰色关联分析",
+        "duration": 2110,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n230629a22t3cgp8gaqdeb2te1nri0hp_firsti.jpg",
+        "ctime": 1688039483
+      },
+      {
+        "cid": 1170386058,
+        "page": 11,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第7讲 线性规划",
+        "duration": 1133,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n230621a23d0nvdlpgh5cv1paj6g2tse_firsti.jpg",
+        "ctime": 1687279685
+      },
+      {
+        "cid": 1170386954,
+        "page": 12,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第7讲 线性规划上机篇",
+        "duration": 341,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n230621a22n644kp9x5pqg1ff2j5ygqj_firsti.jpg",
+        "ctime": 1687279685
+      },
+      {
+        "cid": 1170422393,
+        "page": 13,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第8讲 整数规划",
+        "duration": 1359,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n230621qn19ngnl0c4qu8p2becmmhkz8_firsti.jpg",
+        "ctime": 1687283006
+      },
+      {
+        "cid": 1170388479,
+        "page": 14,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第8讲 整数规划上机篇",
+        "duration": 1951,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n230621a2tfarz9jextks26gybdjy1w7_firsti.jpg",
+        "ctime": 1687279685
+      },
+      {
+        "cid": 1170432412,
+        "page": 15,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第9讲 非线性规划",
+        "duration": 1643,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n230621qn6kpc2xah9zhhwztqrw7fead_firsti.jpg",
+        "ctime": 1687285006
+      },
+      {
+        "cid": 1170390879,
+        "page": 16,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第9讲 非线性规划上机篇",
+        "duration": 550,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n230621qn1uon3humu6ccf306mjbct8x_firsti.jpg",
+        "ctime": 1687279685
+      },
+      {
+        "cid": 1170391347,
+        "page": 17,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第10讲 图论与最短路径算法",
+        "duration": 2911,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n230621a22iw95v6xgqm4rruyiqbav7z_firsti.jpg",
+        "ctime": 1687279685
+      },
+      {
+        "cid": 1170407161,
+        "page": 18,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第10讲 图论与最短路径算法上机篇",
+        "duration": 1798,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n230621qnbseau047f2335xit2hdwzbk_firsti.jpg",
+        "ctime": 1687282175
+      },
+      {
+        "cid": 1192320749,
+        "page": 19,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第11讲 网络最大流问题",
+        "duration": 1833,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n230711a2vekghshaaela19wdf8ht5wt_firsti.jpg",
+        "ctime": 1689038210
+      },
+      {
+        "cid": 1179380149,
+        "page": 20,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第11讲 网络最大流上机篇",
+        "duration": 625,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n230629a237344em2kyc0e1uwt41gdr9_firsti.jpg",
+        "ctime": 1688031864
+      },
+      {
+        "cid": 1186374473,
+        "page": 21,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第12讲 最小费用最大流",
+        "duration": 1181,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n230705a29yhs55qn9qpo3ka0hy4afqw_firsti.jpg",
+        "ctime": 1688569346
+      },
+      {
+        "cid": 1186374724,
+        "page": 22,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第12讲 最小费用最大流上机篇",
+        "duration": 1252,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n230705a212k74aufe0rt52xqefqhke1_firsti.jpg",
+        "ctime": 1688569346
+      },
+      {
+        "cid": 1195162747,
+        "page": 23,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第13讲 旅行商问题",
+        "duration": 824,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n230713a239v3z15fuwmpe1tyv4uvajv_firsti.jpg",
+        "ctime": 1689241120
+      },
+      {
+        "cid": 1202952131,
+        "page": 24,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第14讲 插值算法",
+        "duration": 1840,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n230720a23cei16193afma2dov1stdk3_firsti.jpg",
+        "ctime": 1689817274
+      },
+      {
+        "cid": 1212341394,
+        "page": 25,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第15讲 拟合算法",
+        "duration": 1869,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n230727sajb4fnbjfu9w12dd6poa06k6_firsti.jpg",
+        "ctime": 1690451018
+      },
+      {
+        "cid": 1231547366,
+        "page": 26,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第16讲 微分方程(上)",
+        "duration": 3647,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n230812sasvhi4glnz1b4r8ng0pqbazw_firsti.jpg",
+        "ctime": 1691829377
+      },
+      {
+        "cid": 1231550079,
+        "page": 27,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第16讲 微分方程(下)(传染病模型)",
+        "duration": 275,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n230812sa2h89y44q4dekb3vchswlkj5_firsti.jpg",
+        "ctime": 1691829377
+      },
+      {
+        "cid": 1245323732,
+        "page": 28,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第16讲 微分方程（修复版）",
+        "duration": 1324,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n230824a23bhcw6bzm31p1i34l78ec3m_firsti.jpg",
+        "ctime": 1692867431
+      },
+      {
+        "cid": 1231550822,
+        "page": 29,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第16讲 微分方程上机篇",
+        "duration": 947,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n230812sa3tsw1fticz1221zm6obx96k_firsti.jpg",
+        "ctime": 1691829377
+      },
+      {
+        "cid": 1251866611,
+        "page": 30,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第17讲 时间序列",
+        "duration": 2104,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i2.hdslb.com/bfs/storyff/n230830a2mokzp67dezgv2b0v5cswtzb_firsti.jpg",
+        "ctime": 1693390426
+      },
+      {
+        "cid": 1254679835,
+        "page": 31,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第17讲 时间序列（修复版）",
+        "duration": 3055,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n230902a21dhp56ztudmjlzyykdrcuq9_firsti.jpg",
+        "ctime": 1693627091
+      },
+      {
+        "cid": 1251867219,
+        "page": 32,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第17讲 时间序列上机篇",
+        "duration": 1060,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n230830a29o5kpwos434eoqno1e4lrc3_firsti.jpg",
+        "ctime": 1693390426
+      },
+      {
+        "cid": 1258697389,
+        "page": 33,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第17讲 时间序列上机篇（修复版）",
+        "duration": 1632,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n230906sa1yvomecrhszejazziwb66hu_firsti.jpg",
+        "ctime": 1693967581
+      },
+      {
+        "cid": 1292865641,
+        "page": 34,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第18讲 聚类分析",
+        "duration": 1180,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i0.hdslb.com/bfs/storyff/n231008a23fpcjsypo3q5638ck5wcujs_firsti.jpg",
+        "ctime": 1696755276
+      },
+      {
+        "cid": 1292867079,
+        "page": 35,
+        "from": "vupload",
+        "part": "【大师兄数学建模】第18讲 聚类分析上机篇",
+        "duration": 1329,
+        "vid": "",
+        "weblink": "",
+        "dimension": {
+          "width": 1920,
+          "height": 1080,
+          "rotate": 0
+        },
+        "first_frame": "http://i1.hdslb.com/bfs/storyff/n231008a23c4squ04yvxy82hxl285gzi_firsti.jpg",
+        "ctime": 1696755276
+      }
+    ],
+    "subtitle": {
+      "allow_submit": false,
+      "list": []
+    },
+    "is_season_display": false,
+    "user_garb": {
+      "url_image_ani_cut": ""
+    },
+    "honor_reply": {},
+    "like_icon": "",
+    "need_jump_bv": false,
+    "disable_show_up_info": false,
+    "is_story_play": 0,
+    "is_view_self": false
+  }
+}

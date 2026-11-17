@@ -1,0 +1,65 @@
+{
+  "execution": "按P07清晰代码重建的补充JavaScript验证，MATLAB未执行",
+  "epsilon_in_visible_code": 0.00001,
+  "epsilon_note": "字幕口述识别为0.0001，以14:13代码可读值0.00001为准",
+  "p_column_sums_after_replacement": [
+    1.0000099999999998,
+    1.0000200000000001,
+    1.0000099999999998,
+    1,
+    0.9999999999999999
+  ],
+  "entropy": [
+    0.8262365810050201,
+    0.646157904765897,
+    0.8573998237268058,
+    0.9915986152983965,
+    0.9324033595853575
+  ],
+  "utility": [
+    0.17376341899497993,
+    0.35384209523410304,
+    0.1426001762731942,
+    0.008401384701603454,
+    0.06759664041464253
+  ],
+  "weights_with_course_zero_replacement": [
+    0.23286324546233145,
+    0.4741896721069068,
+    0.1911008660081435,
+    0.011258835256052837,
+    0.0905873811665654
+  ],
+  "visible_4decimal_weights": [
+    0.2329,
+    0.4742,
+    0.1911,
+    0.0113,
+    0.0906
+  ],
+  "max_abs_difference_from_visible_rounding": 0.00004116474394716234,
+  "exact_limit_weights": [
+    0.23286981411238564,
+    0.4741995654044586,
+    0.19112344250002403,
+    0.01125451965774913,
+    0.09055265832538256
+  ],
+  "max_abs_weight_change_due_to_epsilon": 0.00003472284118283264,
+  "negative_branch": {
+    "visible_expression": "X - repmat(min_X,n,1) ./ (repmat(max_X,n,1)-repmat(min_X,n,1))",
+    "intended_correct_expression": "(X - repmat(min_X,n,1)) ./ (repmat(max_X,n,1)-repmat(min_X,n,1))",
+    "input": [
+      -1,
+      1
+    ],
+    "visible_expression_output": [
+      -0.5,
+      1.5
+    ],
+    "corrected_output": [
+      0,
+      1
+    ]
+  }
+}

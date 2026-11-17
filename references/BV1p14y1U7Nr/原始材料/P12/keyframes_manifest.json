@@ -1,0 +1,213 @@
+{
+  "source": "Public Bilibili player preview storyboard",
+  "quality": "480x270 preview; not original video resolution",
+  "bvid": "BV1p14y1U7Nr",
+  "page": 12,
+  "cid": 1170386954,
+  "frames": [
+    {
+      "id": "KF-P12-01",
+      "tile": 0,
+      "time_seconds": 0,
+      "sprite": "preview_sprite_0.jpg",
+      "x": 0,
+      "y": 0,
+      "width": 480,
+      "height": 270,
+      "file": "KF-P12-01.png",
+      "high_resolution_file": "KF-P12-01-HD.png",
+      "high_resolution_source": {
+        "width": 852,
+        "height": 480,
+        "codec": "avc1.64001F"
+      }
+    },
+    {
+      "id": "KF-P12-02",
+      "tile": 3,
+      "time_seconds": 25,
+      "sprite": "preview_sprite_0.jpg",
+      "x": 1440,
+      "y": 0,
+      "width": 480,
+      "height": 270,
+      "file": "KF-P12-02.png",
+      "high_resolution_file": "KF-P12-02-HD.png",
+      "high_resolution_source": {
+        "width": 852,
+        "height": 480,
+        "codec": "avc1.64001F"
+      }
+    },
+    {
+      "id": "KF-P12-03",
+      "tile": 7,
+      "time_seconds": 67,
+      "sprite": "preview_sprite_0.jpg",
+      "x": 3360,
+      "y": 0,
+      "width": 480,
+      "height": 270,
+      "file": "KF-P12-03.png",
+      "high_resolution_file": "KF-P12-03-HD.png",
+      "high_resolution_source": {
+        "width": 852,
+        "height": 480,
+        "codec": "avc1.64001F"
+      }
+    },
+    {
+      "id": "KF-P12-04",
+      "tile": 10,
+      "time_seconds": 97,
+      "sprite": "preview_sprite_0.jpg",
+      "x": 0,
+      "y": 270,
+      "width": 480,
+      "height": 270,
+      "file": "KF-P12-04.png",
+      "high_resolution_file": "KF-P12-04-HD.png",
+      "high_resolution_source": {
+        "width": 852,
+        "height": 480,
+        "codec": "avc1.64001F"
+      }
+    },
+    {
+      "id": "KF-P12-05",
+      "tile": 13,
+      "time_seconds": 125,
+      "sprite": "preview_sprite_0.jpg",
+      "x": 1440,
+      "y": 270,
+      "width": 480,
+      "height": 270,
+      "file": "KF-P12-05.png",
+      "high_resolution_file": "KF-P12-05-HD.png",
+      "high_resolution_source": {
+        "width": 852,
+        "height": 480,
+        "codec": "avc1.64001F"
+      }
+    },
+    {
+      "id": "KF-P12-06",
+      "tile": 16,
+      "time_seconds": 159,
+      "sprite": "preview_sprite_0.jpg",
+      "x": 2880,
+      "y": 270,
+      "width": 480,
+      "height": 270,
+      "file": "KF-P12-06.png",
+      "high_resolution_file": "KF-P12-06-HD.png",
+      "high_resolution_source": {
+        "width": 852,
+        "height": 480,
+        "codec": "avc1.64001F"
+      }
+    },
+    {
+      "id": "KF-P12-07",
+      "tile": 20,
+      "time_seconds": 195,
+      "sprite": "preview_sprite_0.jpg",
+      "x": 0,
+      "y": 540,
+      "width": 480,
+      "height": 270,
+      "file": "KF-P12-07.png",
+      "high_resolution_file": "KF-P12-07-HD.png",
+      "high_resolution_source": {
+        "width": 852,
+        "height": 480,
+        "codec": "avc1.64001F"
+      }
+    },
+    {
+      "id": "KF-P12-08",
+      "tile": 23,
+      "time_seconds": 221,
+      "sprite": "preview_sprite_0.jpg",
+      "x": 1440,
+      "y": 540,
+      "width": 480,
+      "height": 270,
+      "file": "KF-P12-08.png",
+      "high_resolution_file": "KF-P12-08-HD.png",
+      "high_resolution_source": {
+        "width": 852,
+        "height": 480,
+        "codec": "avc1.64001F"
+      }
+    },
+    {
+      "id": "KF-P12-09",
+      "tile": 26,
+      "time_seconds": 246,
+      "sprite": "preview_sprite_0.jpg",
+      "x": 2880,
+      "y": 540,
+      "width": 480,
+      "height": 270,
+      "file": "KF-P12-09.png",
+      "high_resolution_file": "KF-P12-09-HD.png",
+      "high_resolution_source": {
+        "width": 852,
+        "height": 480,
+        "codec": "avc1.64001F"
+      }
+    },
+    {
+      "id": "KF-P12-10",
+      "tile": 29,
+      "time_seconds": 268,
+      "sprite": "preview_sprite_0.jpg",
+      "x": 4320,
+      "y": 540,
+      "width": 480,
+      "height": 270,
+      "file": "KF-P12-10.png",
+      "high_resolution_file": "KF-P12-10-HD.png",
+      "high_resolution_source": {
+        "width": 852,
+        "height": 480,
+        "codec": "avc1.64001F"
+      }
+    },
+    {
+      "id": "KF-P12-11",
+      "tile": 33,
+      "time_seconds": 308,
+      "sprite": "preview_sprite_0.jpg",
+      "x": 1440,
+      "y": 810,
+      "width": 480,
+      "height": 270,
+      "file": "KF-P12-11.png",
+      "high_resolution_file": "KF-P12-11-HD.png",
+      "high_resolution_source": {
+        "width": 852,
+        "height": 480,
+        "codec": "avc1.64001F"
+      }
+    },
+    {
+      "id": "KF-P12-12",
+      "tile": 36,
+      "time_seconds": 340,
+      "sprite": "preview_sprite_0.jpg",
+      "x": 2880,
+      "y": 810,
+      "width": 480,
+      "height": 270,
+      "file": "KF-P12-12.png",
+      "high_resolution_file": "KF-P12-12-HD.png",
+      "high_resolution_source": {
+        "width": 852,
+        "height": 480,
+        "codec": "avc1.64001F"
+      }
+    }
+  ]
+}

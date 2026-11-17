@@ -1,0 +1,4 @@
+interface:
+  display_name: "B站数学建模课程分析"
+  short_description: "逐方法记录B站数学建模课程的解题步骤、每步选择、对应公式及条件，保存有来源的学习笔记"
+  default_prompt: "请使用 $bili-math-modeling 分析我提供的B站数学建模课程，逐方法整理有序解题步骤、每步可选方案、选择条件与对应公式，并保存可回查的方法步骤手册和例题解析。"

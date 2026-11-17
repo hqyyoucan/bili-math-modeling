@@ -1,0 +1,41 @@
+{
+  "label": "P24一维示例的补充SciPy重建；不是原MATLAB执行。",
+  "nodes_x": [
+    1.0,
+    2.0,
+    3.0,
+    4.0,
+    5.0,
+    6.0,
+    7.0,
+    8.0,
+    9.0,
+    10.0
+  ],
+  "query_count": 100,
+  "query_first": 0.01,
+  "query_last": 9.91,
+  "outside_sample_interval_count": 10,
+  "sample_interval": [
+    1,
+    10
+  ],
+  "node_max_abs_error": {
+    "pchip": 0.0,
+    "spline": 4.440892098500626e-16
+  },
+  "at_001": {
+    "true_log": -4.605170185988091,
+    "pchip": -0.8961329268685502,
+    "spline_not_a_knot": -1.165190595024673
+  },
+  "inside_grid_max_abs_error": {
+    "pchip": 0.02188630932431712,
+    "spline_not_a_knot": 0.012380830706171797
+  },
+  "at_zero_extrapolated_finite": {
+    "pchip": -0.9054969673056502,
+    "spline": -1.1800555056916664
+  },
+  "interpretation": "0.01到1之前是外推；有限三次段不能复现ln(x)在0+的负无穷奇点。"
+}

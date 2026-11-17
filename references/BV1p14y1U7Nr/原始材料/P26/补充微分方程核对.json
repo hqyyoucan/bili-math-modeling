@@ -1,0 +1,46 @@
+{
+  "label": "P26已读公式的补充数值重建，未执行MATLAB。",
+  "forced_oscillator": {
+    "equation": "y2prime+y+sin(2x)=0",
+    "interval": [
+      3.141592653589793,
+      6.283185307179586
+    ],
+    "initial": [
+      1,
+      1
+    ],
+    "analytic": "-cos(x)-sin(x)/3+sin(2x)/3",
+    "max_abs_error": 5.641598299632733e-11,
+    "endpoint_y": -0.9999999999634457
+  },
+  "logistic": {
+    "r": 0.02735,
+    "K": 342.4,
+    "x0": 3.9,
+    "time": "补充相对时间0..200，未假定历年基准，不是2010人口预测",
+    "max_abs_error": 1.6959256754489616e-07
+  },
+  "predator_prey": {
+    "parameter_origin": "r=1,d=.5口述；a=.1,b=.02由画面平衡点(25,10)重建",
+    "initial": [
+      10,
+      2
+    ],
+    "equilibrium": [
+      25,
+      10
+    ],
+    "H_max_drift": 9.374545584250882e-11,
+    "last_full_period": 11.134722197344036,
+    "time_means": [
+      24.99999998716345,
+      10.000000000364661
+    ]
+  },
+  "symbolic_initial_variants": {
+    "equation": "y2prime+4*yprime+29*y=0,y(0)=0",
+    "header_yprime0_15": "3*exp(-2*x)*sin(5*x)",
+    "code_yprime0_1": "exp(-2*x)*sin(5*x)/5"
+  }
+}

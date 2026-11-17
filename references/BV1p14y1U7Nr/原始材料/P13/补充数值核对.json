@@ -1,0 +1,144 @@
+{
+  "execution": "补充SciPy/HiGHS、穷举和NumPy模拟，MATLAB原文件未执行",
+  "parity_examples": [
+    {
+      "rhs": 5,
+      "success": false,
+      "status": 2,
+      "x": null,
+      "minimum": null
+    },
+    {
+      "rhs": 6,
+      "success": true,
+      "status": 0,
+      "x": [
+        1.0,
+        1.0
+      ],
+      "minimum": 2.0
+    }
+  ],
+  "mixed_integer_example": {
+    "intcon_matlab": [
+      1,
+      3
+    ],
+    "corrected_b": [
+      -10,
+      12
+    ],
+    "x": [
+      3.0,
+      0.0,
+      4.0
+    ],
+    "minimum": -14.0,
+    "mip_gap": 0.0,
+    "inequality_slack": [
+      0.0,
+      5.0
+    ],
+    "note": "原问题已经是最小化，不能再把fval取负；课件b=10在口述中已更正为-10。"
+  },
+  "school_cover": {
+    "sets_by_site": [
+      [
+        1,
+        5,
+        7
+      ],
+      [
+        1,
+        2,
+        5,
+        8
+      ],
+      [
+        1,
+        3,
+        5
+      ],
+      [
+        2,
+        4,
+        8
+      ],
+      [
+        3,
+        6
+      ],
+      [
+        4,
+        6,
+        8
+      ]
+    ],
+    "minimum_schools": 3,
+    "optimal_sites": [
+      [
+        1,
+        4,
+        5
+      ]
+    ],
+    "enumerated_cases": 64
+  },
+  "knapsack_homework": {
+    "weights": [
+      6,
+      3,
+      4,
+      5,
+      1,
+      2,
+      3,
+      5,
+      4,
+      2
+    ],
+    "profits": [
+      540,
+      200,
+      180,
+      350,
+      60,
+      150,
+      280,
+      450,
+      320,
+      120
+    ],
+    "capacity": 30,
+    "optimal": [
+      {
+        "items": [
+          1,
+          2,
+          4,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "weight": 30,
+        "profit": 2410
+      }
+    ],
+    "enumerated_cases": 1024
+  },
+  "buffon_supplement": {
+    "a": 2.0,
+    "needle_length": 1.0,
+    "N": 200000,
+    "seed": 20261117,
+    "crossings": 63643,
+    "p_hat": 0.318215,
+    "p_exact": 0.3183098861837907,
+    "p_standard_error_estimate": 0.0010415234365461971,
+    "pi_hat": 3.1425294219317124,
+    "pi_absolute_error": 0.0009367683419192474,
+    "note": "独立均匀抽样的补充演示，有限样本估计不是精确π或整数规划最优性证明。"
+  }
+}
